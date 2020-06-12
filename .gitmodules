@@ -1,0 +1,9 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:zcell/TRUE-HOME-API.git
+[submodule "front"]
+	path = front
+	url = git@github.com:zcell/zcell-TRUE-HOME-FRONT.git
+[submodule "iaac"]
+	path = iaac
+	url = git@github.com:zcell/TRUE-HOME-IAC.git
